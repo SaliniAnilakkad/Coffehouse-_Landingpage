@@ -6,7 +6,7 @@ A modern React.js web application for Brew Haven Coffeehouse, featuring premium 
 
 - **Hero Carousel**: Beautiful image carousel with call-to-action buttons
 - **About Us**: Company history, mission, and statistics
-- **Menu Section**: Interactive menu with categories (Espresso, Specialty, Seasonal, Pastries)
+- **Menu Section**: Interactive menu with categories (Espresso, Specialty, Seasonal)
 - **Testimonials**: Customer reviews carousel
 - **Blog Section**: Latest news and coffee tips
 - **Newsletter**: Email subscription form
