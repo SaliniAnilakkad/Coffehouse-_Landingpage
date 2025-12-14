@@ -1,4 +1,4 @@
-# Brew Haven Coffeehouse - React Landing App
+# Brew Haven Coffeehouse - React Landing Page
 
 A modern React.js web application for Brew Haven Coffeehouse, showcasing premium coffee roasts, artisanal beverages, and a rich user experience.
 
