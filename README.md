@@ -1,17 +1,17 @@
 # Brew Haven Coffeehouse - React Web App
 
-A modern React.js web application for Brew Haven Coffeehouse, featuring premium coffee roasts and artisanal beverages.
+A modern React.js web application for Brew Haven Coffeehouse, showcasing premium coffee roasts, artisanal beverages, and a rich user experience.
 
 ## Features
 
-- **Hero Carousel**: Beautiful image carousel with call-to-action buttons
-- **About Us**: Company history, mission, and statistics
-- **Menu Section**: Interactive menu with categories (Espresso, Specialty, Seasonal)
-- **Testimonials**: Customer reviews carousel
-- **Blog Section**: Latest news and coffee tips
-- **Newsletter**: Email subscription form
-- **Contact**: Contact form with business hours and location
-- **Responsive Design**: Mobile-friendly Bootstrap layout
+- **Hero Carousel**: Engaging image carousel with call-to-action buttons.
+- **About Us**: Overview of company history, mission, and key statistics.
+- **Menu Section**: Interactive menu categorized by Espresso, Specialty, and Seasonal.
+- **Testimonials**: Customer reviews displayed in a carousel for social proof.
+- **Blog Section**: Latest news, coffee tips, and articles.
+- **Newsletter**: Email subscription form to grow the subscriber list.
+- **Contact**: Contact form with business hours and location information.
+- **Responsive Design**: Fully mobile-friendly layout built with Bootstrap.
 
 ## Getting Started
 
