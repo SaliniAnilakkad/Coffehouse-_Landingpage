@@ -78,14 +78,6 @@ This creates an optimized production build in the `build` folder.
 - WOW.js (for animations)
 - Owl Carousel (for carousels)
 
-## Content
-
-All content has been updated to reflect Brew Haven Coffeehouse branding:
-- Company name changed from "Tea House" to "Brew Haven Coffeehouse"
-- Menu items updated with coffee-specific products
-- Contact information updated
-- Testimonials and blog posts customized
-
 ## License
 
 This project is private and proprietary.
